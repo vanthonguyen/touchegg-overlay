@@ -1,0 +1,18 @@
+<repositories version="1.0">
+	<repo
+		  quality="experimental"
+		  status="unofficial">
+		<name>dkuku</name>
+		<description lang="en">touchegg-overlay</description>
+		<longdescription lang="en">
+			touchegg related apps
+		</longdescription>
+		<homepage>https://github.com/dkuku/touchegg-overlay</homepage>
+		<owner type="person">
+			<email>daniel.kuku@gmail.com</email>
+			<name>Daniel Kukuła</name>
+		</owner>
+		<source type="git">git://github.com/dkuku/touchegg-overlay.git</source>
+		<source type="git">git+ssh://git@github.com:dkuku/touchegg-overlay.git</source>
+	</repo>
+</repositories>
