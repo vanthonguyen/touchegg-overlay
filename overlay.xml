@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <layman>
   <overlay contact="https://github.com/dkuku/touchegg-overlay" name="touchegg-overlay" src="https://github.com/dkuku/touchegg-overlay" status="unofficial" type="git">
-    <link>http://github.com/dkuku/touchegg-overlay</link>
+    <link>https://github.com/dkuku/touchegg-overlay</link>
     <description>Touchegg related apps</description>
   </overlay>
 </layman>
