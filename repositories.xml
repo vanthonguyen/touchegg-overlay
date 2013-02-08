@@ -1,12 +1,10 @@
-<repositories version="1.0" encoding="UTF-8">
+<repositories version="1.0">
 	<repo
 		  quality="experimental"
 		  status="unofficial">
 		<name>touchegg-overlay</name>
 		<description lang="en">touchegg-overlay</description>
-		<longdescription lang="en">
-			touchegg related apps
-		</longdescription>
+		<longdescription lang="en">touchegg related apps</longdescription>
 		<homepage>https://github.com/dkuku/touchegg-overlay</homepage>
 		<owner type="person">
 			<email>daniel.kuku@gmail.com</email>
