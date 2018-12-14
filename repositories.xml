@@ -10,6 +10,5 @@
 			<name>Daniel Kukula</name>
 		</owner>
 		<source type="git">https://github.com/vanthonguyen/touchegg-overlay.git</source>
-		<source type="git">git+ssh://git@github.com:vanthonguyen/touchegg-overlay.git</source>
 	</repo>
 </repositories>
